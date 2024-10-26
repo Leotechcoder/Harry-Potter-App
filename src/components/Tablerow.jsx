@@ -1,7 +1,7 @@
 import { useContext } from 'react'
 import { deletePerson } from '../data/CRUD.JS'
 import './cards.css'
-import { person, personEdit } from './Personcontext'
+import { person, personEdit } from '../ContextAPI/Personcontext'
 
 
 const Tablerow = ({ personaje }) => {

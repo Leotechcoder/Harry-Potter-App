@@ -1,5 +1,5 @@
 import { useContext } from "react"
-import { person } from "../components/Personcontext"
+import { person } from "../ContextAPI/Personcontext"
 import Cards from "../components/Cards"
 
 

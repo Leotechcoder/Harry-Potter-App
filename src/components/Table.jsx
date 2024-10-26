@@ -1,6 +1,6 @@
 import { useContext } from "react"
 import Tablerow from "./Tablerow"
-import { person } from "./Personcontext"
+import { person } from "../ContextAPI/Personcontext"
 
 
 const Table = () => {

@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react"
 import Input from "./Input"
-import { person, personEdit } from "./Personcontext"
+import { person, personEdit } from "../ContextAPI/Personcontext"
 import { createPerson } from "../data/CRUD.JS"
 import { updatePerson } from "../data/CRUD.JS"
 

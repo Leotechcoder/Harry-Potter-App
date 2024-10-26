@@ -6,7 +6,7 @@ import Inicio from './pages/Inicio'
 import Casas from './pages/Casas'
 import Error from './pages/Error'
 import { PATH } from './routes/PATH'
-import Personprovider from './components/Personprovider'
+import Personprovider from './ContextAPI/Personprovider'
 import Personajes from './pages/Personajes'
 
 const router = createBrowserRouter([{
