@@ -1,5 +1,5 @@
 import CrudForm from "../components/CrudForm"
-import Personprovideredit from "../components/Personprovideredit"
+import Personprovideredit from "../ContextAPI/Personprovideredit"
 import Table from "../components/Table"
 
 

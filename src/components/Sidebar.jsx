@@ -12,7 +12,7 @@ const routes = [
 const Sidebar = () => {
   return (
     <>
-      <div className="pt-4 vh-100">
+      <div className="pt-4 vw-100 vh-100">
         <nav className="nav flex-column py-2">
             {routes.map((route)=>{
                 return(<NavLink 
